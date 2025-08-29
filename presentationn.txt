@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- Source: user's uploaded PowerPoint 'Visualization of Human Life Journey.pptx' :contentReference[oaicite:0]{index=0} -->
-
+<html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -278,3 +278,4 @@
 </body>
 
 </html>
+
